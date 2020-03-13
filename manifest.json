@@ -1,0 +1,17 @@
+{
+    "name": "India Covid-19 Update",
+    "short_name": "Corona India",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "index.html",
+      "icons": [
+      {
+        "src": "assets/lipi.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ]
+  }
